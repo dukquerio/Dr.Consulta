@@ -1,0 +1,23 @@
+
+.index {
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Noto Serif Display', serif;
+    color:rgb(23, 138, 193);
+    text-shadow: 1px  1px 0px rgb(0, 114, 189),
+               0px  1px 0px rgb(0, 114, 189),
+              0px  0px 0px rgb(0, 114, 189),
+               0px 0px 0px rgb(0, 114, 189);
+    
+}
+body {
+    background-color:white;
+}
+div {
+    width: 1800px;
+    height: 930px;
+    background-color:whitesmoke;
+    padding-left: 10px;
+    padding-right: 50px;
+                
+}
